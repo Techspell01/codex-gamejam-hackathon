@@ -1,0 +1,6 @@
+index-*-backup.html
+index-*-before-*.html
+index-before-*.html
+*.log
+Thumbs.db
+.DS_Store
